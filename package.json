@@ -14,7 +14,8 @@
     "primeicons": "^5.0.0",
     "primereact": "^8.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-qr-code": "^2.0.7"
   },
   "devDependencies": {
     "eslint": "8.22.0",
