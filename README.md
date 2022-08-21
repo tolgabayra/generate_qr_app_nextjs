@@ -12,7 +12,7 @@ yarn dev
 
 
 
-<img src="./Screenshot from 2022-08-21 10-05-07"></img>
+<img src="./S.png></img>
 
 
 
