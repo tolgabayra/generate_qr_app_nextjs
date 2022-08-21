@@ -12,7 +12,7 @@ yarn dev
 
 
 
-<img src="./S.png></img>
+<img src="./S.png"></img>
 
 
 
